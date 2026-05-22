@@ -80,3 +80,11 @@ git push -u origin main
 ## Final Outcome
 
 Successfully configured a modern AI-assisted coding workflow environment using Cursor IDE with Claude Code and Codex integrations.
+
+## Setup Screenshots
+
+### Cursor IDE
+![Cursor IDE](screenshots/cursor ide and codex and claude code installation screenshot.png)
+
+### GitHub Repository
+![GitHub Repo](screenshots/repo screenshot.png)
