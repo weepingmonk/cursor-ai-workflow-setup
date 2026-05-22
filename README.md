@@ -84,7 +84,7 @@ Successfully configured a modern AI-assisted coding workflow environment using C
 ## Setup Screenshots
 
 ### Cursor IDE
-![Cursor IDE](screenshots/cursor ide and codex and claude code installation screenshot.png)
+![Cursor IDE](screenshots/cursor-ide-and-codex-and-claude-code-installation-screenshot.png)
 
 ### GitHub Repository
-![GitHub Repo](screenshots/repo screenshot.png)
+![GitHub Repo](screenshots/repo-screenshot.png)
